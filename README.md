@@ -1,2 +1,5 @@
 # hello-world
-To lean GIT
+To learn GIT
+
+
+I want to understand how to work with this system
